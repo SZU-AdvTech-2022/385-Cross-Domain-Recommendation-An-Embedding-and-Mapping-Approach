@@ -1,0 +1,8 @@
+@inproceedings{REPO-386,
+    author = "Man, Tong and Shen, Huawei and Jin, Xiaolong and Cheng, Xueqi",
+    booktitle = "IJCAI",
+    pages = "2464--2470",
+    title = "{Cross-Domain Recommendation: An Embedding and Mapping Approach.}",
+    volume = "17",
+    year = "2017"
+}
